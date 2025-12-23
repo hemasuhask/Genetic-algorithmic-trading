@@ -1,0 +1,55 @@
+{
+    "folders": [
+        {
+            "name": "Project",
+            "path": "/Users/ahmadchoudhary/Documents/extra/Quant/Final 2"
+        }
+    ],
+    "settings": {
+        "python.autoComplete.extraPaths": [
+            "/Users/ahmadchoudhary/Documents/extra/Quant/Library"
+        ],
+        "python.analysis.extraPaths": [
+            "/Users/ahmadchoudhary/Documents/extra/Quant/Library"
+        ],
+        "files.autoSave": "afterDelay",
+        "files.exclude": {
+            "**.vscode": true,
+            "**.idea": true,
+            "config.json": true,
+            "qc.code-workspace": true,
+            "bin": true,
+            "obj": true,
+            "backtests": true,
+            "live": true,
+            "optimizations": true,
+            "storage": true,
+            "report": true,
+            "__pycache__": true,
+            ".ipynb_checkpoints": true,
+            ".idea": true,
+            ".vscode": true
+        },
+        "files.watcherExclude": {
+            "bin/**": true,
+            "obj/**": true,
+            "backtests/**": true,
+            "live/**": true,
+            "optimizations/**": true,
+            "storage/**": true,
+            "report/**": true,
+            "__pycache__/**": true,
+            ".ipynb_checkpoints/**": true,
+            ".idea/**": true,
+            ".vscode/**": true
+        },
+        "files.readonlyInclude": {
+            "**/*.py": false,
+            "**/*.cs": false,
+            "**/*.ipynb": false,
+            "/Users/ahmadchoudhary/Documents/extra/Quant/Final 2/**/*.py": false,
+            "/Users/ahmadchoudhary/Documents/extra/Quant/Final 2/**/*.cs": false,
+            "/Users/ahmadchoudhary/Documents/extra/Quant/Final 2/**/*.ipynb": false
+        }
+    }
+}
